@@ -1,0 +1,2 @@
+[console_scripts]
+pammi-hello = pammi_hello.main:app

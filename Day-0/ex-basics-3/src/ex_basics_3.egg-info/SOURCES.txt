@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+src/ex_basics_3.egg-info/PKG-INFO
+src/ex_basics_3.egg-info/SOURCES.txt
+src/ex_basics_3.egg-info/dependency_links.txt
+src/ex_basics_3.egg-info/entry_points.txt
+src/ex_basics_3.egg-info/top_level.txt
+src/pammi_hello/__init__.py
+src/pammi_hello/main.py
