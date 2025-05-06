@@ -2,7 +2,7 @@ import argparse
 
 def main():
     parser = argparse.ArgumentParser(
-        prog="pammi-hello",
+        prog="pammi_hello-hello",
         description="Prints a greeting"
     )
     parser.add_argument(
