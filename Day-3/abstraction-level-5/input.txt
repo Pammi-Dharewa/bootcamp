@@ -1,0 +1,3 @@
+INFO: System started
+WARNING: Low disk space
+ERROR: Failed to load module

@@ -1,0 +1,13 @@
+pipeline:
+  - name: trim
+  - name: tagger
+  - name: router
+    routes:
+      errors:
+        - name: counter
+        - name: archive
+      warnings:
+        - name: tally
+      general:
+        - name: formatter
+        - name: printer

@@ -1,0 +1,5 @@
+INFO: SYSTEM STARTED
+[PRINT] INFO: System started
+Warnings tally: 1
+Total errors: 1
+[ARCHIVED] ERROR: Failed to load module

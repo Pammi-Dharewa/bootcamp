@@ -1,0 +1,6 @@
+pipeline:
+  - name: splitter
+    config:
+      delimiter: ","
+  - name: line_counter
+  - name: wrap_uppercase

@@ -1,0 +1,6 @@
+tags:
+  start: processors.start.StartProcessor
+  error: processors.filters.ErrorFilter
+  warn: processors.filters.WarnFilter
+  general: processors.formatters.SnakeCaseFormatter
+  end: processors.output.TerminalOutput

@@ -1,0 +1,3 @@
+# config.py
+TRACE_ENABLED = False
+MAX_TRACE_LOGS = 1000

@@ -1,0 +1,4 @@
+info: system booted
+warn: disk space low
+error: failed to connect
+info: user login
