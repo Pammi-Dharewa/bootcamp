@@ -32,7 +32,7 @@ If the input volume were 100x larger, several adjustments would be necessary:
 
 ---
 
-## 🔐 **4. Extensibility & Security**
+## **4. Extensibility & Security**
 
 To run this system for real users, there are a few key things that need to be added or improved:
 
